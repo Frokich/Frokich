@@ -1,56 +1,28 @@
-<h1 align="center">👋 Привет, я Арсений Парфенов</h1>
+README.txt
 
-<p align="center">
-  🧑‍💻 Python backend разработчик <br>
-  ⚙️ Работаю с Flask, FastAPI, SQL и пишу удобные скрипты <br>
-  🔍 Люблю парсить сайты через BeautifulSoup
-</p>
+ABOUT ME
 
----
+\* Age: 19
+\* Stack: C++ (not very experienced yet),
+Python (good knowledge)
+\* Focus: Software development,
+experiments, learning by practice
+\* Always open to impove and dive deever
 
-## 🛠️ Технологии и стек
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=00C7B7" />
-  <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-BeautifulSoup-000?style=for-the-badge&logo=beautifulsoup&logoColor=green" />
-  <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+CODESTYLE
 
----
+\* Indent with 2 spaces, tabs
+\* for comments use only /**/
+\* Try to write without libraries
+\* No trailing whitespace
+\* Perror style
+\* Goto and macros are not bad code
 
-## 💬 Связь со мной
 
-<p align="left">
-  <a href="https://t.me/fokk129" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/dozygit" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+CONTACT
+Telegram: [https://t.me/frokk129]
+Discord: [https://discordapp.com/users/900761193453609001]
 
----
-
-## 📊 GitHub статистика
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frokich&show_icons=true&theme=dark&hide_title=false&hide=issues&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frokich&layout=compact&theme=dark" height="180"/>
-</p>
-
----
-
-## 🧩 Немного фактов
-
-- 🔹 Люблю автоматизировать рутину с помощью маленьких скриптов
-- 🔹 Настраиваю своё окружение под себя, особенно в терминале
-- 🔹 Стремлюсь к чистому, читаемому коду
-- 🔹 Уважаю open-source философию 🐧
-
----
-
-> ⚡ Программирование — это не работа, а образ мышления.
-
+[username]
+2025
